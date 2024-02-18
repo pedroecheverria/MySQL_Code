@@ -4,6 +4,9 @@
 
 Este repositorio contiene los archivos SQL necesarios para recrear la base de datos de "Delice Sucrée", una pastelería dedicada a brindar delicias culinarias a sus clientes. La base de datos está diseñada para optimizar la gestión de inventarios, mejorar la relación con los clientes y facilitar la toma de decisiones informadas.
 
+Esta base de datos sirve como un recurso valioso con fines didácticos. Proporciona una oportunidad práctica para explorar y aplicar conceptos clave de diseño y gestión de bases de datos en un contexto realista, ofreciendo así una herramienta educativa para estudiantes que buscan profundizar en el ámbito de las bases de datos SQL y su aplicación en el mundo empresarial.
+
+
 ## Estructura del Repositorio
 
 El repositorio está organizado en tres partes principales:
