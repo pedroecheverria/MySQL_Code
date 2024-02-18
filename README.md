@@ -18,7 +18,7 @@ Para implementar correctamente la base de datos, sigue estos pasos en el orden d
 
 1. **Crear Tablas:** Ejecuta primero `create_tables.sql` para establecer la estructura de la base de datos.
 2. **Poblar Tablas:** A continuación, utiliza `insert_data.sql` para insertar los datos iniciales en las tablas.
-3. **Funciones, Triggers y Procedimientos Almacenados:** Por último, ejecuta `functions_triggers.sql` para añadir la lógica de negocio adicional necesaria para la operación eficiente de la base de datos.
+3. **Funciones, Triggers y Procedimientos Almacenados:** Por último, ejecuta `functions_triggers_views.sql` para añadir la lógica de negocio adicional necesaria para la operación eficiente de la base de datos.
 
 ## Requisitos
 
